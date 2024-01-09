@@ -40,3 +40,4 @@ wcwidth==0.2.6
 SQLAlchemy==1.4.0
 pymysql
 sshtunnel
+xlsxwriter
