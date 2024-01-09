@@ -41,4 +41,3 @@ SQLAlchemy==1.4.0
 pymysql
 sshtunnel
 xlsxwriter
-hmac
